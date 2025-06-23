@@ -2,19 +2,16 @@
 > astro@0.0.1 dev
 > astro dev --host 0.0.0.0 --port 3000
 
-10:25:59 [types] Generated 1ms
-10:25:59 [content] Syncing content
-10:25:59 [content] Synced content
-10:25:59 [vite] Re-optimizing dependencies because vite config has changed
+10:28:22 [types] Generated 1ms
+10:28:22 [content] Syncing content
+10:28:22 [content] Synced content
+10:28:22 [vite] Re-optimizing dependencies because vite config has changed
 
- astro  v5.4.2 ready in 165 ms
+ astro  v5.4.2 ready in 178 ms
 
 ┃ Local    http://localhost:3000/
 ┃ Network  http://172.17.0.2:3000/
 
-10:25:59 watching for file changes...
-10:26:50 [404] /preview 28ms
-10:26:50 [404] /preview 2ms
-10:26:58 [404] /preview 1ms
-10:27:03 [200] / 10ms
-10:28:11 [200] / 11ms
+10:28:22 watching for file changes...
+10:38:22 [200] / 18ms
+10:38:26 [200] / 5ms
